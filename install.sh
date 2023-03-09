@@ -3,4 +3,5 @@
 set -x
 
 sudo add-apt-repository ppa:fish-shell/release-3
-sudo apt update && sudo apt upgrade
+sudo apt-get -y dist-upgrade
+
