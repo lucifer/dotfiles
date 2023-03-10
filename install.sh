@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
-apt-add-repository ppa:fish-shell/release-3
-apt-get upgrade -y fish
-chsh -s /usr/bin/fish
+sudo apt-add-repository ppa:fish-shell/release-3
+sudo apt-get upgrade -y fish
+sudo chsh -s /usr/bin/fish
 
 
 
