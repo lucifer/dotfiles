@@ -1,6 +1,8 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
   "features": {
-    "ghcr.io/meaningful-ooo/devcontainer-features/fish:1": {}
+    "ghcr.io/meaningful-ooo/devcontainer-features/fish:1": {
+    "fisher_plugins": "jorgebucaran/fishtape pure-fish/pure"
+    }
   }
 }
