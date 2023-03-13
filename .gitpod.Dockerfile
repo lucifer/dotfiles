@@ -1,4 +1,4 @@
-FROM gitpod/workspace-full:latest
+FROM gitpod/workspace-base:latest
 
 RUN sudo install-packages \
 			binwalk \
