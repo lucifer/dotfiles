@@ -5,4 +5,3 @@ RUN sudo install-packages \
 			clang \
 			tmux
 			
-ENV SHELL=/usr/bin/fish	
